@@ -1,6 +1,6 @@
 # CARMA Deployment Project
 
-Welcome to the GitHub Pages deployment repository for one of the applications within the [Carma Monorepo](https://github.com/cismet/carma). This repository serves as the deployment endpoint for an application built under the cids architecture for reactive mapping applications (CARMA) framework, managed by cismet GmbH.
+Welcome to the GitHub Pages deployment repository for one of the playground applications within the [Carma Monorepo](https://github.com/cismet/carma). This repository serves as the deployment endpoint for an application built under the cids architecture for reactive mapping applications (CARMA) framework, managed by cismet GmbH.
 
 ## About the Project
 
